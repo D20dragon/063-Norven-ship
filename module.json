@@ -2,6 +2,8 @@
   "id": "063-norven-ship",
   "title": "063 Norven ship",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/063-Norven-ship/main/module.json",
+"download": "https://github.com/D20dragon/063-Norven-ship/releases/download/1.0.0/063-norven-ship.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
