@@ -1,0 +1,34 @@
+{
+  "id": "063-norven-ship",
+  "title": "063 Norven ship",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "d20_dragon",
+      "url": "https://www.patreon.com/cw/d20_dragon",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/cw/d20_dragon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "063-Norven-ship",
+      "label": "063 Norven ship",
+      "path": "packs/063-Norven-ship",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
